@@ -101,7 +101,13 @@ clothing_classifier.ipynb
 - Mobile deployment
 
 ---
+## Sample Results
 
+### Training Performance
+training_results.jpg
+
+### Sample Prediction
+sample_prediction.jpg
 ## Author
 
 Harshit S Nambiar
